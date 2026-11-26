@@ -4,8 +4,8 @@ version: 0.4.4
 homepage: https://github.com/HomeXLabs/open-mail-app-flutter
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.12.0"
+  sdk: ^3.11.0
+  flutter: ">=3.41.0"
 
 dependencies:
   platform: ^3.1.0
